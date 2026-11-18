@@ -2,6 +2,8 @@
 
 Text lists generated from public domain and address datasets.
 
+Example configuration: [default.conf](default.conf). Use Config mode and enable automatic list updates in the client. Keep local overrides above the downloaded lists.
+
 - `domains.list`: selected domains.
 - `addresses.list`: selected address ranges.
 - `exceptions.list`: domain exceptions; apply these before the selected lists.
