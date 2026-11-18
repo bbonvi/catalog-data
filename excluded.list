@@ -1,0 +1,7 @@
+# excluded.list
+# Updated: 2026-11-18
+# Entries: 2
+# Source: https://raw.githubusercontent.com/hydraponique/roscomvpn-geosite/300324058785ffab06df8725e18969f835d73618/data/category-ads
+# Attribution and data terms: NOTICE in this repository.
+DOMAIN-SUFFIX,ad.mail.ru
+DOMAIN-SUFFIX,alt-ad.mail.ru
