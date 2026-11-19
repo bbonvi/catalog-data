@@ -1,8 +1,8 @@
 # addresses.list
-# Updated: 2026-11-18
-# Entries: 37224
-# Source: https://raw.githubusercontent.com/hydraponique/roscomvpn-geoip/5ec6bf63cf67d853b2bef78611ef3a74705089a2/release/text/private.txt
-# Source: https://raw.githubusercontent.com/hydraponique/roscomvpn-geoip/5ec6bf63cf67d853b2bef78611ef3a74705089a2/release/text/direct.txt
+# Updated: 2026-11-19
+# Entries: 37228
+# Source: https://raw.githubusercontent.com/hydraponique/roscomvpn-geoip/9dfdc7c51661198566b64aaa3998b0c8c2058455/release/text/private.txt
+# Source: https://raw.githubusercontent.com/hydraponique/roscomvpn-geoip/9dfdc7c51661198566b64aaa3998b0c8c2058455/release/text/direct.txt
 # Attribution and data terms: NOTICE in this repository.
 IP-CIDR,10.0.0.0/8
 IP-CIDR,100.64.0.0/10
@@ -11264,6 +11264,7 @@ IP-CIDR,86.110.192.0/21
 IP-CIDR,86.110.200.0/22
 IP-CIDR,86.110.208.0/20
 IP-CIDR,86.111.0.0/19
+IP-CIDR,87.58.0.0/20
 IP-CIDR,87.58.192.2/32
 IP-CIDR,87.76.0.0/20
 IP-CIDR,87.84.0.0/24
@@ -37179,6 +37180,7 @@ IP-CIDR6,2a0c:4480:1::/48
 IP-CIDR6,2a0c:4480:2::/47
 IP-CIDR6,2a0c:4480:6::/47
 IP-CIDR6,2a0c:4480:8::/48
+IP-CIDR6,2a0c:4480:c::/48
 IP-CIDR6,2a0c:4481:1::/48
 IP-CIDR6,2a0c:4481:2::/48
 IP-CIDR6,2a0c:4481:8::/48
@@ -37205,6 +37207,7 @@ IP-CIDR6,2a11:f740:20::/44
 IP-CIDR6,2a13:5940::/32
 IP-CIDR6,2a13:5942:420::/44
 IP-CIDR6,2a13:5942:c20::/44
+IP-CIDR6,2a13:5942:1020::/44
 IP-CIDR6,2a13:5942:2421::/48
 IP-CIDR6,2a13:5943:20::/44
 IP-CIDR6,2a13:5944:20::/44
@@ -37220,6 +37223,7 @@ IP-CIDR6,2a13:5947:130::/47
 IP-CIDR6,2a13:5947:133::/48
 IP-CIDR6,2a13:5947:134::/46
 IP-CIDR6,2a13:5947:13b::/48
+IP-CIDR6,2a13:5947:13e::/48
 IP-CIDR6,2a13:5947:150::/48
 IP-CIDR6,2a14:25c0::/31
 IP-CIDR6,2a14:25c5::/32
